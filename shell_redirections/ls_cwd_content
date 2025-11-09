@@ -1,0 +1,9 @@
+total 28
+drwxr-xr-x 2 root root 4096 Nov  9 13:50 .
+drwxr-xr-x 6 root root 4096 Nov  9 13:10 ..
+-rwxr--r-- 1 root root   28 Nov  9 13:12 0-hellofile
+-rwxr--r-- 1 root root   29 Nov  9 13:20 1-lastlines
+-rwxr--r-- 1 root root   29 Nov  9 13:24 2-firstlines
+-rwxr--r-- 1 root root   39 Nov  9 13:42 3-third_line
+-rwxr--r-- 1 root root   36 Nov  9 13:50 4-cwd_state
+-rw-r--r-- 1 root root    0 Nov  9 13:50 ls_cwd_content
